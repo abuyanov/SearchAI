@@ -1,1 +1,1 @@
-# SearchAI
+My study project
